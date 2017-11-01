@@ -1,6 +1,6 @@
 var ace = require('brace');
 
-require(['emmet/emmet'],function (data) {
+require(['emmet'],function (data) {
     window.emmet = data.emmet;
 });
 
