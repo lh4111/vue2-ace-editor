@@ -9,7 +9,7 @@ Demo here: https://github.com/chairuosen/vue-ace-editor-demo/tree/vue2
 1. Install
 
     ```
-    npm install --save-dev https://github.com/lh4111/vue2-ace-editor.git
+    npm install --save https://github.com/lh4111/vue2-ace-editor.git
     ```
     
 2. Require it in `components` of Vue options
